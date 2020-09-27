@@ -1,0 +1,20 @@
+{
+  "name": "aip-sls-usr-mgmt",
+  "version": "1.0.0",
+  "description": "Serverless framework repo for a UTS AIP portfolio project",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "./node_modules/.bin/serverless deploy --stage poc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaron-K-T-Berry/aip-sls-usr-mgmt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaron-K-T-Berry/aip-sls-usr-mgmt/issues"
+  },
+  "homepage": "https://github.com/Aaron-K-T-Berry/aip-sls-usr-mgmt#readme"
+}
